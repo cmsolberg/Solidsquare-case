@@ -16,9 +16,11 @@ Semantisk riktig html er en fordel.
 Vi ønsker også at kandidaten lager en eksempelside som tar i bruk de komponentene hun/han har valgt å utvikle. Denne siden trenger ikke å ligne på dashbordet, men er kun ment for å vise eksempler på bruk.   
 
 Innleveringen skal bestå av
-•	Kort beskrivelse av hvilke komponenter som trengs (gjerne med bilde av hver enkelt komponent)
-•	Koden til de komponentene kandidaten har valgt å utvikle
-•	Koden til en eksempelside som viser bruk av komponentene.
+*	Kort beskrivelse av hvilke komponenter som trengs (gjerne med bilde av hver enkelt komponent)
+*	Koden til de komponentene kandidaten har valgt å utvikle
+*	Koden til en eksempelside som viser bruk av komponentene.
+
+
 
 Lykke til og ikke nøl med å ta kontakt dersom det skulle være noen spørsmål
 
